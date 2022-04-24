@@ -1,2 +1,2 @@
 # Flutter
-I learn flutter development and develop many projects during the course at udemy 
+I'm learning flutter development and develop many projects during the course at udemy 
